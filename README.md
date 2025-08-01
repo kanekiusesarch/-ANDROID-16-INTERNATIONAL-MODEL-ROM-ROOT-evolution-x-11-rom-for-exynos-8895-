@@ -2,10 +2,12 @@
 a kernel rooted + android 16 rom for samsung phones such as the s8 s8+ note 8 and other exynos 8895 devices
 heyo its me kaneki again and today il be giving ya a guide abt how to get this amazing rom for 8895 phones 
 btw this is NOT MY ROM the gsi  is made by Doze-Off. the base comes from @thewinner02 (telegram) and the brightness fix is made by @JIeMoHuCHuKeT (telegram)
+
 BUGS/HOW TO FIX 
 brightness|the fix is a kernel su module included in the release
 wifi| this is just a fix that ya need to flash in twrp 
 camera|on some devices if it doesnt work try to reflash it. if that doesnt work i will release a breeze os rom too and i found out if you install that rom first then boot into set up them proceed to format it in twrp (ONLY FORMAT IT NOTHIN ELSE) then proceed to flash the evo x rom it might be fixed it did on my galaxy s8
+
 |INSTALLATION|
 boot to twrp 
 format your data 

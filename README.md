@@ -1,43 +1,37 @@
-# -ANDROID-16-INTERNATIONAL-MODEL-ROM-ROOT-evolution-x-11-rom-for-exynos-8895-
-a kernel rooted + android 16 rom for samsung phones such as the s8 s8+ note 8 and other exynos 8895 devices I AM NOT RESPOSNSIBLE FOR BRICKED PHONES GUNS NUKES AND THE LIGHT YAGAMI GETTING A DEATH NOTE (refrence)
-heyo its me kaneki again and today il be giving ya a guide abt how to get this amazing rom for 8895 phones 
-btw this is NOT MY ROM the gsi  is made by Doze-Off. the base comes from @thewinner02 (telegram) and the brightness fix is made by @JIeMoHuCHuKeT (telegram)
+A kernel-rooted + Android 16 ROM for Samsung phones such as the S8, S8+, Note 8, and other Exynos 8895 devices.
+I AM NOT RESPONSIBLE FOR BRICKED PHONES, GUNS, NUKES, AND LIGHT YAGAMI GETTING A DEATH NOTE (reference).
+Heyo, it’s me Kaneki again, and today I’ll be giving ya a guide on how to get this amazing ROM for 8895 phones. BTW, this is NOT MY ROM. The GSI is made by Doze-Off. The base comes from @thewinner02 (Telegram), and the brightness fix is made by @JIeMoHuCHuKeT (Telegram).
 
-BUGS/HOW TO FIX 
-brightness|the fix is a kernel su module included in the release
-wifi| this is just a fix that ya need to flash in twrp 
-camera|on some devices if it doesnt work try to reflash it. if that doesnt work i will release a breeze os rom too and i found out if you install that rom first then boot into set up them proceed to format it in twrp (ONLY FORMAT IT NOTHIN ELSE) then proceed to flash the evo x rom it might be fixed it did on my galaxy s8
+BUGS / HOW TO FIX
+Brightness  The fix is a KernelSU module included in the release
+Wi-Fi  This is just a fix that you need to flash in TWRP
+Camera  On some devices, if it doesn’t work, try to reflash it. If that doesn’t work, I will release a BreezeOS ROM too. I also found out that if you install that ROM first, then boot into setup, then proceed to format it in TWRP (ONLY FORMAT IT, NOTHING ELSE), then proceed to flash the Evo X ROM, it might be fixed. It did on my Galaxy S8.
 
-|NONFIXABLEBUGS|
-there are some weird bugs that evne i can manage to fix.
-soft reboots everytime ya uninstall a app and sometimes flickers when you boot it up and if someway it keeps flcikering out of nowhere simply disable the
-settings for adaptive brightness.
+NON-FIXABLE BUGS
+There are some weird bugs that even I can’t manage to fix.
+• Soft reboots every time you uninstall an app
+• Sometimes flickers when you boot it up
+If it keeps flickering out of nowhere, simply disable the setting for adaptive brightness.
 
-|INSTALLATION|
-boot to twrp 
-format your data 
-then proceed to advanced wip and wipe the dalvik cache data system and vendor partitions
-then reboot to twrp flash the repartitioner.zip
-flash the cleaner.zip
-then flash the evolution x rom
-then let it install and boot if it doesnt boot go to twrp then change the /data partition to f2fs
-reboot to the os and boom you just installed android 16 to a damn 7 to 8 year phone!
+INSTALLATION
+Boot to TWRP, format your data, then proceed to Advanced Wipe and wipe the Dalvik, Cache, Data, System, and Vendor partitions.
+Then reboot to TWRP.
+Flash repartitioner.zip, flash cleaner.zip, then flash the Evolution X ROM.
+Let it install and boot.
+If it doesn’t boot, go to TWRP, then change the /data partition to F2FS, reboot to the OS, and boom you just installed Android 16 on a damn 7 to 8 year-old phone.
 
-HOW TO INSTALL THE FIXES 
-for the brightness fix (MANDATORY IF YA WANT TO SEE SMTH ON THE SCREEN)
-install the kernel su manager apk included (the manager version is 0.7.5) then flahs the brightness module reboot and boom 
-and if the wifi doesnt work ust flash the wifi fix in twrp after ya installed the rom
+HOW TO INSTALL THE FIXES
+Brightness fix (MANDATORY IF YOU WANT TO SEE SOMETHING ON THE SCREEN):
+Install the KernelSU Manager APK included (manager version 0.7.5), then flash the brightness module, reboot, and boom.
+If Wi-Fi doesn’t work, just flash the Wi-Fi fix in TWRP after you’ve installed the ROM.
+The ROM comes with a pre-rooted kernel (FURINA 4.4). Enjoy the ROM.
+I released this ROM here because I’m annoyed by people making ROMs yet never really publicly releasing them, or they do but they’re super hard to find. There are amazing devs making ROMs, yet not many use them because people can’t find them easily on the clearnet, and it’s mostly in some kind of Telegram group.
 
-THE ROM COMES WITH A PREROOTED KERNEL 
-(FURINA 4.4)
-ENJOY THE ROM 
-i released this rom here cuz im anoyed myself by ppl making roms yet never really publicy releasing it or does it but its super duper hard to find them
-and there are amazing devs making roms  yet not many use them cuz ppl cant find them easy on the clearnet and its mostly in some kind of telegram group.
-
-|MY EXPERINCE| 
-evo x is a really customizable rom and just gives you a super premium like excperince compared to other custom roms.
-also its kinda a all in one rom you get root and evo x's settings and quirks like being able to change the boot anim the font the system theme the icons fully navbar and having built in play intergity fixes.
-ive been using it for abt 4 weeks on my s8 and using benchmarking software like antutu give the score of 398732 and the avg for the s8 is 372105. this shows it adds more then 20k more points 26.627 to be exact also the battery life is avg and smoothness is like your using one ui 7 on a galaxy s25 like its built for it.
-BUT one drawback is that if ya run games like roblox pokemon go fnaf or play 2k to 4k vids in yt it does like to heat up. other having root is always nice to have and its kernelsu and kernelsu vs magisk there are diffrences like magisk is systemless root but kernelsu might be a bit new it does offer more intergration cuz its kernel level root and lightweight. id give it a 8/10 cuz its android 16 on a 7 year old device that runs super smooth on such a old device plus other android 16 roms ive tested/used(coming soon)
-where a bit more unstable compared to this beast of a rom. 
-bye bye have fun 
+MY EXPERIENCE
+Evo X is a really customizable ROM and gives you a super premium like experience compared to other custom ROMs. It’s kind of an all-in-one ROM: you get root and Evo X settings and quirks, like being able to change the boot animation, font, system theme, icons, fully customizable navbar, and having built-in Play Integrity fixes.
+I’ve been using it for about 4 weeks on my S8. Using benchmarking software like AnTuTu gives a score of 398,732, and the average for the S8 is 372,105. This shows it adds more than 20K points 26,627 to be exact.
+Battery life is average, and smoothness is like you’re using One UI 7 on a Galaxy S25 like it’s built for it.
+One drawback: if you run games like Roblox, Pokémon GO, FNAF, or play 2K–4K videos on YouTube, it tends to heat up.
+Still, having root is always nice. It’s KernelSU, and KernelSU vs Magisk has differences: Magisk is systemless root, while KernelSU is newer and offers more integration since it’s kernel-level root and lightweight.
+I’d give it an 8/10—Android 16 on a 7-year-old device that runs super smooth. Other Android 16 ROMs I’ve tested/used (coming soon) were a bit more unstable compared to this beast of a ROM.
+Bye bye, have fun.

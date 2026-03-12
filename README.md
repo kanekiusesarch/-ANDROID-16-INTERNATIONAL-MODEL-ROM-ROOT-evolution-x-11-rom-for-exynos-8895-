@@ -1,3 +1,4 @@
+(UPDATE FOR THE NEW RELEASE! (11.4) NO NEED TO FLASH THE WIFI FIX AND BRIGHTNESS FIX!)
 Android 16 Kernel-Rooted ROM for Exynos 8895 Devices
 
 This is a kernel-rooted Android 16 ROM compatible with Samsung devices such as the Galaxy S8, S8+, Note 8, and other Exynos 8895-based devices
